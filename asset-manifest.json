@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-reservation/static/css/main.f611f36f.css",
+    "main.js": "/travel-reservation/static/js/main.52861fd6.js",
+    "index.html": "/travel-reservation/index.html",
+    "main.f611f36f.css.map": "/travel-reservation/static/css/main.f611f36f.css.map",
+    "main.52861fd6.js.map": "/travel-reservation/static/js/main.52861fd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f611f36f.css",
+    "static/js/main.52861fd6.js"
+  ]
+}
